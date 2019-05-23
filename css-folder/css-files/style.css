@@ -1,0 +1,22 @@
+h1 {
+  color: white;
+  font-size: 50;
+}
+
+iframe {
+  width: 711px;
+  height: 400px;
+  frameborder: 0px;
+}
+
+.div-info {
+  height: 500px;
+  background-color: black;
+  shape-outside: none;
+}
+
+.para {
+  color: red;
+  font-size: 25px;
+  font-style: oblique;
+}
